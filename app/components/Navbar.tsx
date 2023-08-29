@@ -14,7 +14,7 @@ const Navbar = () => {
    
 
 
-        <div className="flex gap-4">
+        <div className="hidden md:flex gap-4">
 
        
         <h2>Home</h2>

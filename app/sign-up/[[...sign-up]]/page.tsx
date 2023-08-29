@@ -2,7 +2,7 @@ import { SignUp } from "@clerk/nextjs";
 
 const SignUpPage = () => {
   return (
-    <div className="flex justify-center py-5">
+    <div className="flex justify-center items-center p-10 m-auto">
         <SignUp/>
     </div>
   )
